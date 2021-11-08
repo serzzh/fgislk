@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Метаданные ДЗЗ"
+    id="id-94a4de594ed9486ba532b67205a1f46d">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-2aaed092b4224120802cd2f23fd0cf4f.xml#id-2aaed092b4224120802cd2f23fd0cf4f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ca92dfbfd0354bf8bc53ce29643c61ff.xml#id-ca92dfbfd0354bf8bc53ce29643c61ff"/>
+</archimate:FlowRelationship>

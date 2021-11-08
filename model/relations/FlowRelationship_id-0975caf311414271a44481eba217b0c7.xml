@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Факт по мероприятиям"
+    id="id-0975caf311414271a44481eba217b0c7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bdef833cdca34697a70f692446c8367d.xml#id-bdef833cdca34697a70f692446c8367d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d02c69ae5b9d49a8a5bed71fb53dbb0c.xml#id-d02c69ae5b9d49a8a5bed71fb53dbb0c"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Геоданные"
+    id="id-df9e72a6713e4d238e825f313e64c0e7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6cf1c1a9e64c424eb4c3f06a252bf3cb.xml#id-6cf1c1a9e64c424eb4c3f06a252bf3cb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b452bef5815f4a08a463ccc6f8121571.xml#id-b452bef5815f4a08a463ccc6f8121571"/>
+</archimate:FlowRelationship>

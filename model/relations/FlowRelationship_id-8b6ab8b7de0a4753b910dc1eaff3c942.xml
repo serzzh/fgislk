@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Записи о показателях ГИЛ"
+    id="id-8b6ab8b7de0a4753b910dc1eaff3c942">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3d06726c54974f95af6337d1fbbac80c.xml#id-3d06726c54974f95af6337d1fbbac80c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-250e84df8f0a4308befcab91a00faa37.xml#id-250e84df8f0a4308befcab91a00faa37"/>
+</archimate:FlowRelationship>

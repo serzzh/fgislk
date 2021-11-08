@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Детальные планы мероприятий"
+    id="id-a6b5a2f6f9634587bd768d228f5f5c71">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bdef833cdca34697a70f692446c8367d.xml#id-bdef833cdca34697a70f692446c8367d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ed7b2be8b7184482a713dc7fa7cbe553.xml#id-ed7b2be8b7184482a713dc7fa7cbe553"/>
+</archimate:FlowRelationship>
